@@ -2,7 +2,7 @@
 
 * Wenfeng Zhang, Baoning Cai, Jianming Hu, <strong><u>Qibing Qin</u></strong>*, Kezhen Xie. Visual-textual Cross-modal Interaction Network for Radiology Report Generation. IEEE Signal Processing Letters, 2024. [[Code]](https://github.com/QinLab-WFU/VCIN)[[PDF]](https://ieeexplore.ieee.org/document/10475386)
   
-* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai,  Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2024.（中科院三区期刊，CCF-B）[[Code]](https://github.com/QinLab-WFU/OUR-DNPH)[[PDF]](https://dl.acm.org/doi/10.1145/3643639)
+* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai,  Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2024.[[Code]](https://github.com/QinLab-WFU/OUR-DNPH)[[PDF]](https://dl.acm.org/doi/10.1145/3643639)
   
 * <strong><u>Qibing Qin</u></strong>, Yadong Huo, Lei Huang, Jiangyan Dai, Huihui Zhang, Wenfeng Zhang. Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2024.[[Code]](https://github.com/QinLab-WFU/DNpH)[[PDF]](https://ieeexplore.ieee.org/abstract/document/10379137)
   
