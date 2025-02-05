@@ -1,3 +1,5 @@
+* <strong><u>Qibing Qin</u></strong>, Lei Wu, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Semantic-consistent Penalizing Hashing for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2025.[[Code]](https://github.com/QinLab-WFU/DScPH)[[PDF]](https://ieeexplore.ieee.org/document/10855579)
+  
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval.  IEEE Transactions on Knowledge and Data Engineering, 2024.[[Code]](https://github.com/QinLab-WFU/DHaPH)[[PDF]](https://ieeexplore.ieee.org/document/10530441)
 
 * Wenfeng Zhang, Baoning Cai, Jianming Hu, <strong><u>Qibing Qin</u></strong>*, Kezhen Xie. Visual-textual Cross-modal Interaction Network for Radiology Report Generation. IEEE Signal Processing Letters, 2024. [[Code]](https://github.com/QinLab-WFU/VCIN)[[PDF]](https://ieeexplore.ieee.org/document/10475386)
