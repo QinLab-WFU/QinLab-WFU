@@ -1,6 +1,11 @@
+* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Ranking-oriented cross-modal hashing. Engineering Applications of Artificial Intelligence, 2025: 112195. （中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/ROCMH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197625022031?dgcid=author)
+  
 * Kun Cheng, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议, <strong>Oral</strong>) [[Code]]( https://github.com/QinLab-WFU/DPBE)
+  
 * Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议) [[Code]]( https://github.com/QinLab-WFU/FTH)
+  
 * Xinzheng Sui, Lei Wu, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Lei Huang, Wenfeng Zhang. Deep semantic center-guided hashing for multi-label cross-modal retrieval. Expert Systems with Applications, 2026:128747. [[Code]](https://github.com/QinLab-WFU/DSCGH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417425023656)
+  
 * Wenfeng Zhang, Xiangfei Cao, Lei Huang, Dengwei Yan, <strong><u>Qibing Qin</u></strong>*, Wei Hu. Domain-invariant multi-granularity feature learning for generalizable person re-identification. Knowledge-Based Systems, 2025: 113656. [[Code]](https://github.com/CQNU-ZhangLab/PFIEN)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705125007026)
 
 * <strong><u>Qibing Qin</u></strong>, Yadong Huo, Wenfeng Zhang, Lei Huang, Jie Nie.  Deep Discriminative Boundary Hashing for Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2025.[[Code]](https://github.com/QinLab-WFU/DDBH)[[PDF]](https://ieeexplore.ieee.org/document/11003934)
