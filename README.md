@@ -1,3 +1,5 @@
+* <strong><u>Qibing Qin</u></strong>, Lei Wu, Wenfeng Zhang, Huihui Zhang, Lei Huang, and Jie Nie. Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2025.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DSTH)[[PDF]](https://ieeexplore.ieee.org/document/11208593)
+  
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Ranking-oriented cross-modal hashing. Engineering Applications of Artificial Intelligence, 2025: 112195. （中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/ROCMH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197625022031?dgcid=author)
   
 * Kun Cheng, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议, <strong>Oral</strong>) [[Code]]( https://github.com/QinLab-WFU/DPBE)
