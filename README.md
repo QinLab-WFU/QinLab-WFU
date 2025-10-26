@@ -2,9 +2,9 @@
   
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Ranking-oriented cross-modal hashing. Engineering Applications of Artificial Intelligence, 2025: 112195. （中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/ROCMH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197625022031?dgcid=author)
   
-* Kun Cheng, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议, <strong>Oral</strong>) [[Code]]( https://github.com/QinLab-WFU/DPBE)
+* Kun Cheng, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议, <strong>Oral</strong>) [[Code]]( https://github.com/QinLab-WFU/DPBE)[[PDF]](https://dl.acm.org/doi/10.1145/3746027.3754811)
   
-* Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议) [[Code]]( https://github.com/QinLab-WFU/FTH)
+* Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议) [[Code]]( https://github.com/QinLab-WFU/FTH)[[PDF]](https://dl.acm.org/doi/10.1145/3746027.3755201)
   
 * Xinzheng Sui, Lei Wu, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Lei Huang, Wenfeng Zhang. Deep semantic center-guided hashing for multi-label cross-modal retrieval. Expert Systems with Applications, 2026:128747. [[Code]](https://github.com/QinLab-WFU/DSCGH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417425023656)
   
