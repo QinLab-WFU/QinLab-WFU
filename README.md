@@ -1,4 +1,6 @@
-* Shuo Han#, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DUaPH)[[PDF]](https://dl.acm.org/doi/10.1145/3785478)
+* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Distance Weighted Sampling Hashing for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DDWSH)[[PDF]](https://ieeexplore.ieee.org/document/11353914)
+* 
+* Shuo Han#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DUaPH)[[PDF]](https://dl.acm.org/doi/10.1145/3785478)
 
 * Shuo Han#, <strong><u>Qibing Qin</u></strong>*, Kezhen Xie, Wenfeng Zhang, Lei Huang. Polysemic Semantic Instance Network for Cross-Modal Hashing. Proceedings of the AAAI conference on Artificial Intelligence, 2026. (CCF-A/CAAI-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DPSIH)
   
