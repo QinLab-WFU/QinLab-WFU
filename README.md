@@ -1,3 +1,5 @@
+* Hao Sun#, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Intra-class Distribution-guided Generative Hashing with Neighbor Refinement for Cross-modal Retrieval. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. (CCF-A类会议, 人工智能和计算机视觉领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/IDGH)
+  
  * <strong><u>Qibing Qin</u></strong>, Meiling Ge, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Stochastic Spherical Hashing with von Mises-Fisher Distributions for Cross-Modal Retrieval. IEEE Transactions on Knowledge and Data Engineering, 2026, 1-14.（CCF-A类期刊，信息检索领域顶级期刊）[[Code]](https://github.com/QinLab-WFU/DSSH)[[PDF]](https://ieeexplore.ieee.org/document/11397828)
 
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval. The Fourteenth International Conference on Learning Representations, 2026.（ICLR2026, 人工智能领域顶级会议）[[Code]](https://github.com/QinLab-WFU/DGHDGH)[[PDF]](https://openreview.net/pdf?id=GAQEsnnQtG)
