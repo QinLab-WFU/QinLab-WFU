@@ -2,6 +2,8 @@
 
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval. The Fourteenth International Conference on Learning Representations, 2026.（ICLR2026, 人工智能领域顶级会议）[[Code]](https://github.com/QinLab-WFU/DGHDGH)[[PDF]](https://openreview.net/pdf?id=GAQEsnnQtG)
 
+* Hao Sun#, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Intra-class Distribution-guided Generative Hashing with Neighbor Refinement for Cross-modal Retrieval. Conference on Computer Vision and Pattern Recognition, 2026.（CVPR2026, CCF-A类会议）[[Code]](https://github.com/QinLab-WFU/IDGH)
+
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Distance Weighted Sampling Hashing for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DDWSH)[[PDF]](https://ieeexplore.ieee.org/document/11353914)
   
 * Shuo Han#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DUaPH)[[PDF]](https://dl.acm.org/doi/10.1145/3785478)
