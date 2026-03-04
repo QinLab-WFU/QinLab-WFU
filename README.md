@@ -4,7 +4,7 @@
 
 * <strong><u>Qibing Qin</u></strong>, Mingkun Dou, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Neighbor Discriminant Binary Embedding for Multi-Label Image Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/NDBE)[[PDF]](https://ieeexplore.ieee.org/document/11415384)
   
-* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval. The Fourteenth International Conference on Learning Representations, 2026.（ICLR2026, 人工智能领域顶级会议）[[Code]](https://github.com/QinLab-WFU/DGHDGH)[[PDF]](https://openreview.net/pdf?id=GAQEsnnQtG)
+* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval. The Fourteenth International Conference on Learning Representations, 2026, 1-22.（ICLR2026, 人工智能领域顶级会议）[[Code]](https://github.com/QinLab-WFU/DGHDGH)[[PDF]](https://openreview.net/pdf?id=GAQEsnnQtG)
 
 * Hao Sun#, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Intra-class Distribution-guided Generative Hashing with Neighbor Refinement for Cross-modal Retrieval. Conference on Computer Vision and Pattern Recognition, 2026.（CVPR2026, CCF-A类会议）[[Code]](https://github.com/QinLab-WFU/IDGH)
 
