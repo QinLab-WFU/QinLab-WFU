@@ -1,18 +1,26 @@
+* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Lei Huang. Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval. Forty-Third International Conference on Machine Learning 2026. (CCF-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DDSPH)
+  
+* Hao Sun#, <strong><u>Qibing Qin</u></strong>*, Lei Huang. Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label. Forty-Third International Conference on Machine Learning 2026. (CCF-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/RSH)
+  
 * Hao Sun#, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Intra-class Distribution-guided Generative Hashing with Neighbor Refinement for Cross-modal Retrieval. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. (CCF-A类会议, 人工智能和计算机视觉领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/IDGH)
   
 * <strong><u>Qibing Qin</u></strong>, Meiling Ge, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Stochastic Spherical Hashing with von Mises-Fisher Distributions for Cross-Modal Retrieval. IEEE Transactions on Knowledge and Data Engineering, 2026, 1-14.（CCF-A类期刊，信息检索领域顶级期刊）[[Code]](https://github.com/QinLab-WFU/DSSH)[[PDF]](https://ieeexplore.ieee.org/document/11397828)
 
-* <strong><u>Qibing Qin</u></strong>, Mingkun Dou, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Neighbor Discriminant Binary Embedding for Multi-Label Image Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/NDBE)[[PDF]](https://ieeexplore.ieee.org/document/11415384)
+* <strong><u>Qibing Qin</u></strong>, Mingkun Dou, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Neighbor Discriminant Binary Embedding for Multi-Label Image Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-A类期刊）[[Code]](https://github.com/QinLab-WFU/NDBE)[[PDF]](https://ieeexplore.ieee.org/document/11415384)
+  
+* Xinyu Zhang#, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Deep Relational Knowledge Distillation Hashing via Relaxed Masking Triplet Optimization for Large-scale Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DRKDH)
+  
+* Meiling Ge, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Generative Zero-Shot Hashing for Multi-Label Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/GZSH)
   
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval. The Fourteenth International Conference on Learning Representations, 2026, 1-22.（ICLR2026, 人工智能领域顶级会议）[[Code]](https://github.com/QinLab-WFU/DGHDGH)[[PDF]](https://openreview.net/pdf?id=GAQEsnnQtG)
 
-* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Distance Weighted Sampling Hashing for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DDWSH)[[PDF]](https://ieeexplore.ieee.org/document/11353914)
+* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Distance Weighted Sampling Hashing for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-A类期刊）[[Code]](https://github.com/QinLab-WFU/DDWSH)[[PDF]](https://ieeexplore.ieee.org/document/11353914)
   
 * Shuo Han#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DUaPH)[[PDF]](https://dl.acm.org/doi/10.1145/3785478)
 
 * Shuo Han#, <strong><u>Qibing Qin</u></strong>*, Kezhen Xie, Wenfeng Zhang, Lei Huang. Polysemic Semantic Instance Network for Cross-Modal Hashing. Proceedings of the AAAI conference on Artificial Intelligence, 2026. (CCF-A/CAAI-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DPSIH)[[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/42459)
   
-* <strong><u>Qibing Qin</u></strong>, Lei Wu, Wenfeng Zhang, Huihui Zhang, Lei Huang, and Jie Nie. Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2025.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DSTH)[[PDF]](https://ieeexplore.ieee.org/document/11208593)
+* <strong><u>Qibing Qin</u></strong>, Lei Wu, Wenfeng Zhang, Huihui Zhang, Lei Huang, and Jie Nie. Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2025.（中科院一区Top期刊，CCF-A类期刊）[[Code]](https://github.com/QinLab-WFU/DSTH)[[PDF]](https://ieeexplore.ieee.org/document/11208593)
   
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Ranking-oriented cross-modal hashing. Engineering Applications of Artificial Intelligence, 2025: 112195. （中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/ROCMH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197625022031?dgcid=author)
   
