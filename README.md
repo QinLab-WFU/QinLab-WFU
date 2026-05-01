@@ -2,7 +2,7 @@
   
 * Hao Sun#, <strong><u>Qibing Qin</u></strong>*, Lei Huang. Robust Self-reflective Hashing for Cross-modal Retrieval with Noisy Label. Forty-Third International Conference on Machine Learning 2026. (CCF-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/RSH)
   
-* Hao Sun#, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Intra-class Distribution-guided Generative Hashing with Neighbor Refinement for Cross-modal Retrieval. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. (CCF-A类会议, 人工智能和计算机视觉领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/IDGH)
+* Hao Sun#, Yadong Huo, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Intra-class Distribution-guided Generative Hashing with Neighbor Refinement for Cross-modal Retrieval. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. (CCF-A类会议, 人工智能和计算机视觉领域顶级学术会议，<strong>入选Highlight论文</strong>) [[Code]](https://github.com/QinLab-WFU/IDGH)
   
 * <strong><u>Qibing Qin</u></strong>, Meiling Ge, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Stochastic Spherical Hashing with von Mises-Fisher Distributions for Cross-Modal Retrieval. IEEE Transactions on Knowledge and Data Engineering, 2026, 1-14.（CCF-A类期刊，信息检索领域顶级期刊）[[Code]](https://github.com/QinLab-WFU/DSSH)[[PDF]](https://ieeexplore.ieee.org/document/11397828)
 
