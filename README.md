@@ -8,9 +8,9 @@
 
 * <strong><u>Qibing Qin</u></strong>, Mingkun Dou, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Neighbor Discriminant Binary Embedding for Multi-Label Image Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-A类期刊）[[Code]](https://github.com/QinLab-WFU/NDBE)[[PDF]](https://ieeexplore.ieee.org/document/11415384)
   
-* Xinyu Zhang#, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Deep Relational Knowledge Distillation Hashing via Relaxed Masking Triplet Optimization for Large-scale Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DRKDH)
+* Xinyu Zhang#, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Deep Relational Knowledge Distillation Hashing via Relaxed Masking Triplet Optimization for Large-scale Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DRKDH)[[PDF]](https://dl.acm.org/doi/10.1145/3820061)
   
-* Meiling Ge, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Generative Zero-Shot Hashing for Multi-Label Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/GZSH) [[PDF]](https://dl.acm.org/doi/10.1145/3815114)
+* Meiling Ge, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Generative Zero-Shot Hashing for Multi-Label Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/GZSH)[[PDF]](https://dl.acm.org/doi/10.1145/3815114)
   
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Global-sense Hard-negative Discriminative Generation Hashing for Cross-modal Retrieval. The Fourteenth International Conference on Learning Representations, 2026, 1-22.（ICLR2026, 人工智能领域顶级会议）[[Code]](https://github.com/QinLab-WFU/DGHDGH)[[PDF]](https://openreview.net/pdf?id=GAQEsnnQtG)
 
