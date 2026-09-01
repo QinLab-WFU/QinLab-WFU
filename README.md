@@ -9,6 +9,8 @@
 * <strong><u>Qibing Qin</u></strong>, Meiling Ge, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Stochastic Spherical Hashing with von Mises-Fisher Distributions for Cross-Modal Retrieval. IEEE Transactions on Knowledge and Data Engineering, 2026, 1-14.（CCF-A类期刊，信息检索领域顶级期刊）[[Code]](https://github.com/QinLab-WFU/DSSH)[[PDF]](https://ieeexplore.ieee.org/document/11397828)
 
 * <strong><u>Qibing Qin</u></strong>, Mingkun Dou, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Neighbor Discriminant Binary Embedding for Multi-Label Image Retrieval. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-A类期刊）[[Code]](https://github.com/QinLab-WFU/NDBE)[[PDF]](https://ieeexplore.ieee.org/document/11415384)
+
+* Wenfeng Zhang, Jun Ni, Yue Meng, Xiaodong Pei, Wei Hu, <strong><u>Qibing Qin</u></strong>* and Lei Huang. SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection. IEEE Transactions on Multimedia, 2026.（中科院一区Top期刊，CCF-A类期刊）[[Code]](https://github.com/CQNU-ZhangLab/SFFNet)[[PDF]](https://ieeexplore.ieee.org/document/11672886)
   
 * Xinyu Zhang#, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Deep Relational Knowledge Distillation Hashing via Relaxed Masking Triplet Optimization for Large-scale Image Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2026. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DRKDH)[[PDF]](https://dl.acm.org/doi/10.1145/3820061)
   
