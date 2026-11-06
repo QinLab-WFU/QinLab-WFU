@@ -1,4 +1,4 @@
-* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Deep Discriminative Global Relevance Hashing for Cross-modal Retrieval. the 34th ACM International Conference on Multimedia, 2026. (CCF-A类会议, 多媒体领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DDGRH)
+* Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Deep Discriminative Global Relevance Hashing for Cross-modal Retrieval. the 34th ACM International Conference on Multimedia, 2026. (CCF-A类会议, 多媒体领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DDGRH)[[PDF]](https://dl.acm.org/doi/10.1145/3767308.3835858)
 
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Lei Huang. Deep Discriminative Structure Proxy Hashing for Cross-modal Retrieval. Forty-Third International Conference on Machine Learning 2026. (CCF-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DDSPH)[[PDF]](https://openreview.net/pdf?id=bjxkOak8TD)
 
